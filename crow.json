@@ -1,6 +1,6 @@
-[ {
+{
     "healthStatus":"GREEN",
     "testName":"crow-e2e-validation tests",
     "resultsUrl":"https://gitlab-odx.oracle.com/sre/crow-e2e-tests/-/jobs/167589",
     "timestamp":"2018-02-01 16:03:56.962002"
-} ]
+}
